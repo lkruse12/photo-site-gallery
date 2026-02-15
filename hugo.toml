@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lkruse12.github.io/photo-site-gallery/'
 languageCode = 'en-us'
 title = 'Kruse Photos'
 theme = 'simple-gallery'
