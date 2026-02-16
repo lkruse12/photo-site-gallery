@@ -1,6 +1,13 @@
 baseURL = 'https://lkruse12.github.io/photo-site-gallery/'
 languageCode = 'en-us'
-title = 'Kruse Photos'
+title = '1437 Photography'
 theme = 'simple-gallery'
 relativeURLs = false
-canonifyURLs = true
+canonifyURLs = false
+
+[params]
+    [params.socialIcons]
+    instagram = "https://www.instagram.com/landon_kruse12/"
+    email = "mailto:kruselandon12@gmail.com"
+    linkedin = "https://www.linkedin.com/in/landon-kruse-505257186/"
+    github = "https://github.com/lkruse12"
