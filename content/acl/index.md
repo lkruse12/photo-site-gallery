@@ -2,7 +2,7 @@
 date: '2026-02-14T11:23:56-06:00'
 draft: false
 title: 'Austin City Limits 2025'
-description: 'Photos from ACL 2025'
+#description: 'We went to ACL to see Role Model and Hozier'
 params:
     featured_image: ACL_003.jpg
 
