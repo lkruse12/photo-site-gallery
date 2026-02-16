@@ -17,7 +17,7 @@ That's another thing about me, I love to learn new things, maybe to a fault. I h
 
 In Spring of 2021, I was helping my grandparents move out of their old house and came across his Canon camera from the 50s. In 1952 he had just graduated from Texas A&M with a bachelor's degree in dairy science when he was drafted into the Army for the Korean war. By the time he made it to Korea though, the active conflict was ending and he was there more as "cleanup crew." He picked up this camera in Japan, as I understood it, before he got to Korea and used it to document his time there.
 
-![Canon II D1 and Original Bag](../images/Canon-IID1.jpg)
+![Canon II D1 and Original Bag](/images/Canon-IID1.jpg)
 
 The fact that the camera was 100% manual fascinated me. Growing up in the 2000s, I only ever knew early digital; film was just something in disposable cameras, and even those had electronics in them. I did a little research, learned the basics of how to use the camera, and shot my first roll of film.
 
@@ -29,13 +29,13 @@ Fast-forward to Spring 2025. My wife and I are planning a last minute trip to Am
 
 So I went to Chat GPT (I know... it's just so easy to ask for some things though) and asked about ISO, aperture, shutter speed, pushing and pulling, exposure values, focal lengths, and everything in between. I also realized that I didn't actually know what the exact model of my camera was either. After some old-fashioned Google searching, I found this [website](https://flynngraphics.ca/model-finder/) which helped me to identify my camera as a Canon Model II D1 and provided me with the original user's guide!
 
-![Canon II D1 User Guide](../images/II-D-Cover-Photo.jpg)
+![Canon II D1 User Guide](/images/II-D-Cover-Photo.jpg)
 
 Armed with this new knowledge, and a light meter app, I ordered a few rolls of Kodak gold and started practicing. I shot the first roll around Houston to make sure I knew what I was doing, and then packed up my camera for Amsterdam.
 
 Since then, I've collected a few more film cameras from various family members. My collection now includes a Canon AE-1, AE-1 Program, and an Olympus OM-1N, along with the Model II D1. Recently, I've favored the Program, but I still appreciate the full manual aspect of the II D1 which really helped me learn the basics of photography.
 
-![Film Camera Collection Front to Back: Canon Model II D1, Olympus OM-1N, Canon AE-1, Canon AE-1 Program](../images/Film-Camera-Collection.jpg)
+![Film Camera Collection Front to Back: Canon Model II D1, Olympus OM-1N, Canon AE-1, Canon AE-1 Program](/images/Film-Camera-Collection.jpg)
 
 ### Future
 
