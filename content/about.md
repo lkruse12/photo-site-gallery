@@ -17,7 +17,7 @@ That's another thing about me, I love to learn new things, maybe to a fault. I h
 
 In Spring of 2021, I was helping my grandparents move out of their old house and came across his Canon camera from the 50s. In 1952 he had just graduated from Texas A&M with a bachelor's degree in dairy science when he was drafted into the Army for the Korean war. By the time he made it to Korea though, the active conflict was ending and he was there more as "cleanup crew." He picked up this camera in Japan, as I understood it, before he got to Korea and used it to document his time there.
 
-![Canon II D1 and Original Bag](images/Canon-IID1.jpg)
+![Canon II D1 and Original Bag](/images/Canon-IID1.jpg)
 
 The fact that the camera was 100% manual fascinated me. Growing up in the 2000s, I only ever knew early digital; film was just something in disposable cameras, and even those had electronics in them. I did a little research, learned the basics of how to use the camera, and shot my first roll of film.
 
