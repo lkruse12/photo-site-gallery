@@ -1,0 +1,35 @@
+{{ define "main" }}
+  {{ partial "hero.html" . }}
+  {{ partial "title.html" . }}
+  {{ partial "categories.html" }}
+  {{ partial "featured.html" . }}
+  <section class="galleries">
+  {{/* Get all public albums */}}
+  {{ $albums := where .Pages "Params.private" "ne" true }}
+
+  {{/* Build a slice with automatic sub-album detection and optional weight */}}
+  {{ $albumsWithFlag := slice }}
+  {{ range $albums }}
+    {{ $hasChildren := gt (len .Pages) 0 }}
+    {{ $weight := cond (isset .Params "weight") .Params.weight nil }}  {{/* nil if no weight set */}}
+    {{ $albumsWithFlag = $albumsWithFlag | append (dict
+      "Page" . 
+      "HasChildren" $hasChildren
+      "Weight" $weight
+      "Title" .Title
+    ) }}
+  {{ end }}
+
+  {{/* Sort albums:
+        1. Sub-albums first (HasChildren desc)
+        2. Weighted albums next (Weight asc; nil values go last)
+        3. Alphabetical fallback (Title asc)
+  */}}
+  {{ $albumsWithFlag = sort $albumsWithFlag "HasChildren" "desc" "Weight" "asc" "Title" "asc" }}
+
+  {{/* Render each album */}}
+  {{ range $albumsWithFlag }}
+    {{ partial "album-card.html" .Page }}
+  {{ end }}
+</section>
+{{ end }}

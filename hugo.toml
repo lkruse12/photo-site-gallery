@@ -11,3 +11,6 @@ canonifyURLs = true
     email = "mailto:kruselandon12@gmail.com"
     linkedin = "https://www.linkedin.com/in/landon-kruse-505257186/"
     #github = "https://github.com/lkruse12"
+
+    sort_by = "Name"
+    sort_order = "desc"
