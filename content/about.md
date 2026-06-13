@@ -37,6 +37,10 @@ Since then, I've collected a few more film cameras from various family members. 
 
 ![Film Camera Collection Front to Back: Canon Model II D1, Olympus OM-1N, Canon AE-1, Canon AE-1 Program](/images/Film-Camera-Collection.jpg)
 
+### Digital
+
+Recently, I was gifted a Fujifilm X-T2 for my birthday and I've bee
+
 ### Future
 
 I'll be updating this site as I add more photos here along my photography journey. Currently, I'm looking into getting my first real digital camera (expensive).
