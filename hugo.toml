@@ -14,3 +14,7 @@ canonifyURLs = true
 
     sort_by = "Name"
     sort_order = "desc"
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-SXFGLHDN59"
