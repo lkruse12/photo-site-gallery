@@ -17,4 +17,4 @@ canonifyURLs = true
 
 [services]
   [services.googleAnalytics]
-    ID = "G-SXFGLHDN59"
+    id = "G-SXFGLHDN59"
