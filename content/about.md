@@ -9,9 +9,9 @@ menu:
 
 ### Me
 
-My Name is Landon Kruse. I graduated from Texas A&M in 2022 with a bachelor's degree in aerospace engineering but I've always been interested in the arts. I started this website as a way for me to publicly display all of my favorite photos without creating an instagram photography page. I don't have anything against photography socials, I just get more anxious when I have to think about getting followers and likes on my page. Maybe this is more work, but I enjoy learning new skills.
+My Name is Landon Kruse. I graduated from Texas A&M in 2022 with a bachelor's degree in aerospace engineering and I only include that here because it seems relatively at odds with something like photography. It's not an artsy degree but I think engineering is inherintly a very creative industry which is why I gravitated towards it and also probably why I like photography. I started this website as a way for me to publicly display all of my favorite photos in an aesthetic way and learn a little bit of web design at the same time.
 
-That's another thing about me, I love to learn new things, maybe to a fault. I have a tendency to pick up as many hobbies as I can fit in my closet (they take up a lot of space) and hardly ever follow through with them. In fact, it's not unlikely that I stop keeping up with this page at some point too. But for now at least, it's here. So please enjoy!
+I love to learn new things, maybe to a fault. I have a tendency to pick up as many hobbies as I can fit in my garage and hardly ever follow through with them all. In fact, it's not unlikely that I stop keeping up with this page at some point too. But for now at least, it's here. So please enjoy.
 
 ### My First Camera
 
@@ -21,28 +21,28 @@ In Spring of 2021, I was helping my grandparents move out of their old house and
 
 The fact that the camera was 100% manual fascinated me. Growing up in the 2000s, I only ever knew early digital; film was just something in disposable cameras, and even those had electronics in them. I did a little research, learned the basics of how to use the camera, and shot my first roll of film.
 
-It was terrible. Not surprising for a first ever user of a "real" (non-phone) camera but, not only was the skill missing, the hardware itself needed work. Sitting in a closet for decades in humid central Texas had allowed the lens to fill with moisture which was ruining every image. The camera had come with multiple lenses; 50mm, 85mm, and a 135mm. Each of them had some kind of issue. So I got some very tiny screw drivers and spent hours carefully disecting each one piece by piece while trying to not lose screws smaller than half a grain of rice. I cleaned them up, reassembled them, and then put them back in a closet and forgot about it.
+Unsurprisingly, it was terrible, but not just because I sucked at photography. The hardware needed work. Sitting in a closet for decades in humid central Texas had allowed the lens to fill with moisture which was ruining every image. The camera had come with multiple lenses; 50mm, 85mm, and a 135mm. Each of them had some kind of issue. So I got some very tiny screw drivers and spent hours carefully disecting each one while trying not to lose screws smaller than half a grain of rice. I cleaned them up, reassembled them, and then put them back in a closet and forgot about it.
 
 ### Rediscovering Film
 
 Fast-forward to Spring 2025. My wife and I are planning a last minute trip to Amsterdam and I came across the Canon in my closet. I decided I wanted to properly learn how to use it this time and take it on vacation to try and get some cool pictures.
 
-So I went to Chat GPT (I know... it's just so easy to ask for some things though) and asked about ISO, aperture, shutter speed, pushing and pulling, exposure values, focal lengths, and everything in between. I also realized that I didn't actually know what the exact model of my camera was either. After some old-fashioned Google searching, I found this [website](https://flynngraphics.ca/model-finder/) which helped me to identify my camera as a Canon Model II D1 and provided me with the original user's guide!
+So I started researching everything about cameras. ISO, aperture, shutter speed, pushing and pulling, exposure values, focal lengths, and every other basic piece of film information. I also realized that I didn't actually know what the exact model of my camera was either. After more searching, I found this [website](https://flynngraphics.ca/model-finder/) which helped me to identify my camera as a Canon Model II D1 and provided me with the original user's guide.
 
 ![Canon II D1 User Guide](/images/II-D-Cover-Photo.jpg)
 
-Armed with this new knowledge, and a light meter app, I ordered a few rolls of Kodak gold and started practicing. I shot the first roll around Houston to make sure I knew what I was doing, and then packed up my camera for Amsterdam.
+With this new knowledge and a light metering app, I ordered a few rolls of Kodak gold and started practicing. I shot the first roll around Houston to make sure I knew what I was doing, and then packed up my camera for Amsterdam.
 
-Since then, I've collected a few more film cameras from various family members. My collection now includes a Canon AE-1, AE-1 Program, and an Olympus OM-1N, along with the Model II D1. Recently, I've favored the Program, but I still appreciate the full manual aspect of the II D1 which really helped me learn the basics of photography.
+Since then, I've collected a few more film cameras from various family members. My collection now includes an AE-1 Program, an Olympus OM-1N, and the Canon Model II D1. Recently, I've used the Program more, but I still appreciate the full manual aspect of the II D1 which really helped me learn the basics of photography.
 
 ![Film Camera Collection Front to Back: Canon Model II D1, Olympus OM-1N, Canon AE-1, Canon AE-1 Program](/images/Film-Camera-Collection.jpg)
 
 ### Digital
 
-Recently, I was gifted a Fujifilm X-T2 for my birthday and I've bee
+Recently, I got a Fujifilm X-T2 for my birthday and have been pretty good use out of it. A lot of my more recent photos have been on that camera which you may or may not be able to tell from the image quality. While I still love my film cameras, I enjoy the freedom of digital. I can shoot a lot more and not have to worry about running out of expensive film. I can still make my photos look like film too with film recipes available on Fujifilm cameras. It's maybe a cop out from doing real editing, but I'm just doing this for fun anyway so who cares.
+
+My only lens at the moment is a Viltrox AF 25mm F1.7 Air which is a really great lens for as cheap as it is. I'll probably add more lens to my collection in the future but for now, this is enough.
 
 ### Future
 
-I'll be updating this site as I add more photos here along my photography journey. Currently, I'm looking into getting my first real digital camera (expensive).
-
-This is also a bit of an experiment in website design, so there will likely be issues along the way. I plan to incrementally improve this site by adding more features, pages, etc. as I learn more.
+I'll hopefully be updating this site as I go more places and take more pictures. This is a bit of an experiment in website design, so there will likely be issues along the way. I plan to incrementally improve this site by adding more features, pages, etc. as I learn more.
